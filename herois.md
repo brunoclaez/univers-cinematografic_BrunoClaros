@@ -30,3 +30,7 @@ Markdown
 - **Poder/Tecnologia:** Arts mequestres i místiques, manipulació del temps.
 - **Origen:** Cirurgià que descobreix la màgia a Kamar-Taj.
 - **Funció:** Guardià de les amenaces interdimensionals.
+
+## Relacions Clau
+- **Iron Man & Spider-Man:** Relació de mentor i alumne.
+- **Captain America & Black Panther:** Aliança tàctica i diplomàtica.

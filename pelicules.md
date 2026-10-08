@@ -21,3 +21,10 @@ Markdown
 - **Escenari:** La Terra i l'espai exterior
 - **Argument:** Els herois uneixen forces per primera vegada per combatre l'amenaça global.
 - **Relació:** Es correspon amb el *Capítol 3: La formació dels Avengers*.
+
+## 4. Avengers: La Batalla Pel Futur
+- **Protagonistes:** Equip complet de superherois
+- **Antagonista:** Thanos
+- **Escenari:** La Terra (Camp de batalla final)
+- **Argument:** Els herois fan un últim esforç per revertir els danys causats i assegurar el futur de l'univers.
+- **Relació:** Es correspon amb el *Capítol 4: La batalla pel futur de la Terra*.
