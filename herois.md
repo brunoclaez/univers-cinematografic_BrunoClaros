@@ -20,3 +20,13 @@ Markdown
 - **Poder/Tecnologia:** Sentits millorats, vestit de vibrani absorbent.
 - **Origen:** Rei de Wakanda, hereta el poder de l'Herba en Forma de Cor.
 - **Funció:** Proveïdor de recursos i suport tàctic internacional.
+
+## Thor
+- **Poder/Tecnologia:** Control del llamp, força divina, martell Mjolnir.
+- **Origen:** Príncep d'Asgard.
+- **Funció:** Defensor cosmològic.
+
+## Doctor Strange
+- **Poder/Tecnologia:** Arts mequestres i místiques, manipulació del temps.
+- **Origen:** Cirurgià que descobreix la màgia a Kamar-Taj.
+- **Funció:** Guardià de les amenaces interdimensionals.
